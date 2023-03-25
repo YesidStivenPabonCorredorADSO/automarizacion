@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.container{
+    background-color:white;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 35%;
+    height: 80vh;
+}
+h1{
+    position: relative;
+    top:-60px;
+    left: 350px;
+    right: 200px;
+    font-size: 52px;
+    color:rgb(0,62,95);
+}
+p{
+    position: relative;
+    top:-15px;
+    left: 300px;
+    right: 300px;
+    background-color: aqua;
+    border-radius: 40px;
+    width: 300px;
+
+}
+footer p{
+    position: relative;
+    top:10px;
+    left:50px;
+    right:50px;
+    border: 2px solid white;
+    background-color: white;
+}
+.recurso3{
+    position: relative;
+    top: 0;
+    left:0;
+    right:0 ;
+}
+.recurso2{
+    position:absolute;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+}
+.recurso10{
+    position:relative;
+    top:-70px;
+    left: 0px;
+    right:0px ;
+}
+.recurso1{
+    position: relative;
+    top: -30px;
+    left: 0px;
+    right: 0px;
+}
+.recurso9{
+    position: relative;
+    top: -70px;
+    left: 400px;
+    right: 400px;
+}
+.recurso8{
+    position: relative;
+    top: 200px;
+    left: 703px;
+    right: 703px;
+}
+.recurso5{
+    position: relative;
+    top: 160px;
+    left: 33px;
+    right: 1px;
+}
+.Tabla{
+    position: relative;
+    width: 80px;
+    top: -50px;
+    left: 150px;
+    right: 150px;
+    font-size:15px;
+}
+th{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    top: -100px;
+    left: 150px;
+    right: 150px;
+    font-size:15px;
+}
+tr{
+    width: 80px;
+    text-align: center;
+}
+td{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: -100px;
+    left: 150px;
+    right: 150px;
+    font-size:15px;
+}
+.t1{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    top: -30px;
+    left: 20px;
+    right: 200px;
+}
+.t2{
+    position: relative;
+    width: 5px;
+    height: 5px;
+    top: -30px;
+    left: 20px;
+    right: 200px;
+}
+.t3{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    left: 20px;
+    right: 200px;
+}
+.t4{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 20px;
+    right: 200px;
+}
